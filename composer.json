@@ -1,0 +1,15 @@
+{
+  "name": "gregory/wordline",
+  "description": "Wordline Sips integration",
+  "authors": [
+    {
+      "name": "Gregory Monseur",
+      "email": "gregory.monseur@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Sips\\" : "lib/Sips/"
+    }
+  }
+}
