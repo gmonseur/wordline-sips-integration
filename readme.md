@@ -1,4 +1,4 @@
-# Wordline Sips Intergration
+# Wordline Sips Integration
 Based on official php script of Wordline Sips
 
 - [Official Sips PHP library](https://github.com/worldline/Sips-International-non-FR-PHPlibrary)
